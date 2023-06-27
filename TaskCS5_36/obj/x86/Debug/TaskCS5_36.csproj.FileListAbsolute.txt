@@ -1,0 +1,5 @@
+I:\Max\Perf_gr\Gb\Examples\TaskCS5_36\bin\Debug\TaskCS5_36.exe
+I:\Max\Perf_gr\Gb\Examples\TaskCS5_36\bin\Debug\TaskCS5_36.pdb
+I:\Max\Perf_gr\Gb\Examples\TaskCS5_36\obj\x86\Debug\TaskCS5_36.csprojResolveAssemblyReference.cache
+I:\Max\Perf_gr\Gb\Examples\TaskCS5_36\obj\x86\Debug\TaskCS5_36.exe
+I:\Max\Perf_gr\Gb\Examples\TaskCS5_36\obj\x86\Debug\TaskCS5_36.pdb
